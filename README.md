@@ -1,5 +1,5 @@
 ### ⚡Welcome to my GitHUB profile!⚡ 
-✨I’m working on many projects, using ML and NLP.
+I’m working on many projects, using ML and NLP.
 #
 ![Hi there 👋](https://s27389.pcdn.co/wp-content/uploads/2019/12/top-5-data-science-strategy-predictions-2020-1024x440.jpeg)
 
