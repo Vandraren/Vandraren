@@ -1,5 +1,5 @@
 ### ⚡Welcome to my GitHUB profile!⚡ 
-I’m working on Data Sciense projects, using ML and NLP.
+I’m working on Data Sciense projects, using ML, CV and NLP.
 #
 ![Hi there 👋](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-15-1024x256.png)
 
