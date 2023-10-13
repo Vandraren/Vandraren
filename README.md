@@ -1,7 +1,7 @@
 ### ⚡Welcome to my GitHUB profile!⚡ 
 I’m working on Data Sciense projects, using ML and NLP.
 #
-![Hi there 👋]([[https://i.pinimg.com/564x/d4/4a/c3/d44ac3f9bb60e771b9c77fd47b123365.jpg]])
+![Hi there 👋]([https://i.pinimg.com/564x/d4/4a/c3/d44ac3f9bb60e771b9c77fd47b123365.jpg])
 
 <a href="https://www.kaggle.com/nikitababkin/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 <!--
