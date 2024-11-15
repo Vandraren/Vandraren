@@ -1,7 +1,7 @@
 ### ⚡Welcome to my GitHUB profile!⚡ 
 I’m working on Data Sciense projects, using ML, CV and NLP.
 #
-![Hi there 👋](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-15-1024x256.png)
+![Hi there 👋]([https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-15-1024x256.png](https://drive.google.com/file/d/1hge2MxICIQKamAG6D7196P5KKRUmiPQd/view?usp=sharing))
 
 <a href="https://www.kaggle.com/nikitababkin/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 <!--
